@@ -1,7 +1,5 @@
 # Heart Disease Dashboard
 
-![dashboard_img](img/dashboard_screenshot.png)
-
 > Author: Jenny Lee (@jlee2843)
 
 ## Motivation
@@ -11,6 +9,7 @@ Heart disease poses a significant threat to individuals worldwide, affecting app
 
 ## Walkthrough Video
 [![IMAGE ALT TEXT HERE](img/dashboard_screenshot.png)](https://www.youtube.com/watch?v=AZq804Km9jk)
+Click on the image above to be directed to the Youtube Video.
 
 ## Disclaimer
 Since this project is created in Tableau, I did not require any python file dedicated to run the program locally. Therefore, there is no `src` folder or `environment.yml` file that are required to run the file locally. 
