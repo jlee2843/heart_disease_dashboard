@@ -11,5 +11,8 @@ Heart disease poses a significant threat to individuals worldwide, affecting app
 [![IMAGE ALT TEXT HERE](img/dashboard_screenshot.png)](https://www.youtube.com/watch?v=AZq804Km9jk)
 Click on the image above to be directed to the Youtube Video.
 
+## Reflection
+Creating my first Tableau dashboard was a learning experience. Figuring out how to use features like Rows and Columns took some time, but it was interesting to learn because it's something I have been wanting to explore. If I had more time, I would make the dashboard look nicer by adding design elements like a heart image. I would also improve the Tooltips to make them clearer. Overall, working with Tableau was fun, and I'm looking forward to getting better at making dashboards.
+
 ## Disclaimer
 Since this project is created in Tableau, I did not require any python file dedicated to run the program locally. Therefore, there is no `src` folder or `environment.yml` file that are required to run the file locally. 
